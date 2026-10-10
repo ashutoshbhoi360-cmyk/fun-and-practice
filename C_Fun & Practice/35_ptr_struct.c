@@ -1,6 +1,6 @@
 # include <stdio.h>
 struct student {
-    char name[20];
+    char name[21];
     int roll_number;
 };
 int main() {
